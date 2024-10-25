@@ -1,0 +1,1977 @@
+SINTA_ID,Nama,Universitas,Department,Subjects,SINTA_Score_Overall,SINTA_Score_3Yr,Affil_Score,Affil_Score_3Yr,Scopus,GScholar,WOS
+5986966,AJI SURAJI,Universitas Widya Gama,S1 - Teknik Sipil,"Highway Engineering, Traffic Engineering and Management, Transportation Engineering and Management",2.326,1.289,0,0,"0    12
+1    36
+2     8
+3     4
+4     0
+5     1
+Name: Scopus, dtype: int64","0     79
+1    283
+2     44
+3     10
+4     11
+5      1
+Name: GScholar, dtype: int64","0     4
+1    15
+2     4
+3     2
+4     0
+5     4
+Name: WOS, dtype: int64"
+161222,ISTIADI,Universitas Widya Gama,S1 - Teknik Informatika,"Electronic and Information Technology, Expert System, Semantic Technology",1.873,950,0,0,"0    27
+1    64
+2    19
+3     5
+4     1
+5     3
+Name: Scopus, dtype: int64","0     86
+1    386
+2     63
+3     10
+4     10
+5      1
+Name: GScholar, dtype: int64","0    7
+1    4
+2    4
+3    1
+4    0
+5    2
+Name: WOS, dtype: int64"
+6172418,AVIV YUNIAR RAHMAN,Universitas Widya Gama,S1 - Teknik Informatika,"Image Processing, Computer Vision, Deep Learning, Natural Language Processing",1.438,810,0,0,"0     32
+1    128
+2     21
+3      8
+4      6
+5      1
+Name: Scopus, dtype: int64","0     92
+1    450
+2     54
+3     12
+4     15
+5      1
+Name: GScholar, dtype: int64","0    6
+1    8
+2    6
+3    2
+4    0
+5    2
+Name: WOS, dtype: int64"
+5978881,ANA SOPANAH SUPRIYADI,Universitas Widya Gama,S1 - Akuntansi,Public Sector of Accounting,1.665,801,0,0,"0     5
+1    21
+2     4
+3     3
+4     1
+5     5
+Name: Scopus, dtype: int64","0     89
+1    573
+2     57
+3     13
+4     20
+5      1
+Name: GScholar, dtype: int64","0     1
+1    12
+2     1
+3     1
+4     1
+5     0
+Name: WOS, dtype: int64"
+161208,FITRI MARISA,Universitas Widya Gama,S1 - Teknik Informatika,"Computer Support learning, data mining",2.173,787,0,0,"0    17
+1    84
+2    13
+3     5
+4     3
+5     1
+Name: Scopus, dtype: int64","0     175
+1    1526
+2     112
+3      22
+4      38
+5       1
+Name: GScholar, dtype: int64","0     9
+1    26
+2     6
+3     3
+4     1
+5     1
+Name: WOS, dtype: int64"
+5977179,CANDRA ADITYA,Universitas Widya Gama,S1 - Teknik Sipil,civil engeneering,1.332,706,0,0,"0    10
+1    13
+2     5
+3     2
+4     0
+5     1
+Name: Scopus, dtype: int64","0     52
+1    159
+2     33
+3      7
+4      5
+5      1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5977530,ADYA HERMAWATI,Universitas Widya Gama,S2 - Manajemen,"Human Resource Management, Management Strategy, Perilaku Organisasi",1.879,653,0,0,"0     21
+1    128
+2     18
+3      7
+4      5
+5      1
+Name: Scopus, dtype: int64","0     172
+1    1256
+2     111
+3      19
+4      30
+5       1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5972684,SABAR SETIAWIDAYAT,Universitas Widya Gama,S1 - Teknik Elektro,"Electrical engineering, biomedical engineering",1.238,588,0,0,"0    10
+1    41
+2     7
+3     5
+4     1
+5     1
+Name: Scopus, dtype: int64","0     87
+1    366
+2     49
+3     10
+4     10
+5      1
+Name: GScholar, dtype: int64","0    2
+1    2
+2    2
+3    1
+4    0
+5    2
+Name: WOS, dtype: int64"
+5973160,GIGIH PRIYANDOKO,Universitas Widya Gama,S1 - Teknik Elektro,"Automatic Control, Applied Mechanic",1.817,527,0,0,"0     43
+1    576
+2     34
+3     10
+4     10
+5      1
+Name: Scopus, dtype: int64","0     127
+1    1083
+2      75
+3      16
+4      21
+5       1
+Name: GScholar, dtype: int64","0     17
+1    316
+2     12
+3      7
+4      4
+5      1
+Name: WOS, dtype: int64"
+5998828,RIMAN,Universitas Widya Gama,S1 - Teknik Sipil,Teknik Sipil,660,502,0,0,"0    4
+1    2
+2    1
+3    1
+4    0
+5    1
+Name: Scopus, dtype: int64","0    17
+1    30
+2     7
+3     3
+4     1
+5     2
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5986025,AGUS TUGAS SUDJIANTO,Universitas Widya Gama,S1 - Teknik Sipil,Teknik Sipil,758,479,0,0,"0     9
+1    18
+2     5
+3     2
+4     1
+5     1
+Name: Scopus, dtype: int64","0     52
+1    205
+2     25
+3      8
+4      5
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6663726,PURBO SUWANDONO,Universitas Widya Gama,S1 - Teknik Mesin,"heat transfer, manufacturing, mechanic fluid, mathematic",685,466,0,0,"0     9
+1    10
+2     5
+3     2
+4     0
+5     1
+Name: Scopus, dtype: int64","0    50
+1    98
+2    26
+3     5
+4     2
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5998680,SUDIYONO,Universitas Widya Gama,S1 - Teknologi Hasil Pertanian,Teknologi Hasil Pertanian,2.827,447,0,0,"0    4
+1    3
+2    1
+3    2
+4    0
+5    1
+Name: Scopus, dtype: int64","0    13
+1    30
+2     8
+3     4
+4     0
+5     1
+Name: GScholar, dtype: int64","0      110
+1    19737
+2       89
+3       21
+4       50
+5        1
+Name: WOS, dtype: int64"
+6684776,DAFID IRAWAN,Universitas Widya Gama,S1 - Teknik Sipil,civil engineering,706,439,0,0,"0    1
+1    2
+2    1
+3    1
+4    0
+5    0
+Name: Scopus, dtype: int64","0    30
+1    37
+2    12
+3     4
+4     0
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6104467,EMMA BUDI SULISTIARINI,Universitas Widya Gama,S1 - Teknik Industri,Industrial Engineering and Management,965,434,0,0,"0     6
+1    15
+2     5
+3     3
+4     0
+5     2
+Name: Scopus, dtype: int64","0     77
+1    817
+2     25
+3      6
+4      4
+5      1
+Name: GScholar, dtype: int64","0    2
+1    1
+2    1
+3    1
+4    0
+5    1
+Name: WOS, dtype: int64"
+6660008,ABDUL HALIM,Universitas Widya Gama,S1 - Teknik Sipil,Struktur dan Teknologi Bahan,611,418,0,0,"0    2
+1    3
+2    2
+3    1
+4    0
+5    2
+Name: Scopus, dtype: int64","0    31
+1    95
+2    21
+3     6
+4     3
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6666868,MOHAMMAD CAKRAWALA,Universitas Widya Gama,S1 - Teknik Sipil,Teknik Sipil,629,404,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     26
+1    101
+2     15
+3      6
+4      4
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5977277,ARIE RESTU WARDHANI,Universitas Widya Gama,S1 - Teknik Industri,"Innovation Management, SME's, Optimisation, Simulation, Management Information System",615,396,0,0,"0    1
+1    5
+2    1
+3    1
+4    0
+5    0
+Name: Scopus, dtype: int64","0     40
+1    174
+2     19
+3      6
+4      4
+5      1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5978136,SRI RAHAJU DJATIMURTI RITA HANAFIE,Universitas Widya Gama,S1 - Agribisnis,"agribusiness, food security, agricultural economics",909,371,0,0,"0     5
+1    18
+2     3
+3     3
+4     0
+5     1
+Name: Scopus, dtype: int64","0      49
+1    1614
+2      35
+3      11
+4      13
+5       1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5972680,FACHRUDIN,Universitas Widya Gama,S1 - Teknik Elektro,"Artificial Intelligence Control, Behaved Based Optimization",888,369,0,0,"0    13
+1    75
+2    12
+3     5
+4     3
+5     2
+Name: Scopus, dtype: int64","0     70
+1    313
+2     44
+3      8
+4      6
+5      1
+Name: GScholar, dtype: int64","0     3
+1    15
+2     3
+3     2
+4     0
+5     0
+Name: WOS, dtype: int64"
+161268,NURIDA FINAHARI,Universitas Widya Gama,S1 - Teknik Mesin,"Mechanical Engineering, Biomechanic, Vibration, Sound",770,369,0,0,"0     2
+1    35
+2     1
+3     1
+4     1
+5     1
+Name: Scopus, dtype: int64","0     85
+1    240
+2     49
+3      8
+4      5
+5      1
+Name: GScholar, dtype: int64","0    1
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: WOS, dtype: int64"
+6727265,CHOIRUL ANAM,Universitas Widya Gama,S1 - Manajemen,"Human Capital, Organizational, Leadership, Philosophy",549,362,0,0,"0    0
+1    0
+2    0
+3    2
+4    1
+5    1
+Name: Scopus, dtype: int64","0     61
+1    165
+2     29
+3      7
+4      5
+5      2
+Name: GScholar, dtype: int64","0    2
+1    2
+2    1
+3    1
+4    0
+5    2
+Name: WOS, dtype: int64"
+5987236,DADANG HERMAWAN,Universitas Widya Gama,S1 - Teknik Mesin,Konversi Energi dan Material,704,338,0,0,"0    5
+1    4
+2    2
+3    2
+4    0
+5    1
+Name: Scopus, dtype: int64","0    41
+1    78
+2    27
+3     4
+4     2
+5     1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5972668,FAQIH ROFII,Universitas Widya Gama,S1 - Teknik Elektro,"Wireless and Mobile Communication, Telecommunication Transmision and networks, Optimization",609,320,0,0,"0     9
+1    15
+2     6
+3     2
+4     0
+5     1
+Name: Scopus, dtype: int64","0     55
+1    176
+2     43
+3      7
+4      3
+5      1
+Name: GScholar, dtype: int64","0    1
+1    1
+2    1
+3    1
+4    0
+5    0
+Name: WOS, dtype: int64"
+6738705,HANIF RANI ISWARI,Universitas Widya Gama,S1 - Manajemen,Management,435,280,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     54
+1    166
+2     27
+3      7
+4      4
+5      1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5989963,NOVA RISDIYANTO ISMAIL,Universitas Widya Gama,S1 - Teknik Mesin,Konversi Energi,603,254,0,0,"0    4
+1    4
+2    1
+3    1
+4    0
+5    1
+Name: Scopus, dtype: int64","0     79
+1    132
+2     39
+3      6
+4      1
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5990602,RAHAYU PUJI SUCI,Universitas Widya Gama,S2 - Manajemen,Manajemen,804,252,0,0,"0     8
+1    19
+2     6
+3     3
+4     0
+5     1
+Name: Scopus, dtype: int64","0    117
+1    893
+2     70
+3     12
+4     16
+5      2
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5985900,GATOT SOEBIYAKTO,Universitas Widya Gama,S1 - Teknik Mesin,Konversi Energi,457,241,0,0,"0    1
+1    1
+2    1
+3    1
+4    0
+5    0
+Name: Scopus, dtype: int64","0     56
+1    136
+2     33
+3      5
+4      3
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5982671,WAHJU WULANDARI,Universitas Widya Gama,S1 - Manajemen,Ilmu Managemen,693,233,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     85
+1    377
+2     47
+3     10
+4     11
+5      1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5972723,DEDI USMAN EFFENDY,Universitas Widya Gama,S1 - Teknik Elektro,Electrical Engginering,585,232,0,0,"0    1
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: Scopus, dtype: int64","0    40
+1    97
+2    21
+3     6
+4     3
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6648492,ALFIANA,Universitas Widya Gama,S1 - Manajemen,Manajemen,433,218,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     68
+1    315
+2     33
+3     10
+4     10
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5981061,CHAULIAH FATMA PUTRI,Universitas Widya Gama,S1 - Teknik Industri,"Performance Measurement, Industrial Engineering",606,214,0,0,"0    4
+1    2
+2    2
+3    1
+4    0
+5    1
+Name: Scopus, dtype: int64","0     47
+1    309
+2     31
+3     10
+4     10
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5978109,EVI NURIFAH JULITASARI,Universitas Widya Gama,S1 - Agribisnis,Kebijakan Perdagangan,396,210,0,0,"0     3
+1    13
+2     2
+3     2
+4     0
+5     1
+Name: Scopus, dtype: int64","0    28
+1    59
+2     9
+3     3
+4     2
+5     1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+6695241,ARIEF RIZKI FADHILLAH,Universitas Widya Gama,S1 - Teknik Mesin,Material Manufaktur dan komposit,322,208,0,0,"0    1
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: Scopus, dtype: int64","0    41
+1    72
+2    23
+3     4
+4     2
+5     2
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5974912,IWAN NUGROHO,Universitas Widya Gama,S1 - Agribisnis,"Regional development, Ecotourism, Socio economic, Economics",1.416,205,0,0,"0     5
+1    19
+2     4
+3     3
+4     0
+5     1
+Name: Scopus, dtype: int64","0     152
+1    2312
+2      89
+3      20
+4      31
+5       1
+Name: GScholar, dtype: int64","0    2
+1    6
+2    1
+3    1
+4    0
+5    0
+Name: WOS, dtype: int64"
+5990635,SILVIANA,Universitas Widya Gama,S1 - Teknik Industri,Teknik Industri,614,201,0,0,"0    4
+1    5
+2    3
+3    2
+4    0
+5    2
+Name: Scopus, dtype: int64","0    25
+1    30
+2    12
+3     4
+4     0
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6808233,MULYONO,Universitas Widya Gama,D3 - Keuangan Dan Perbankan,Manajemen,368,199,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+259792,SYAHRONI WAHYU IRIANANDA,Universitas Widya Gama,S1 - Teknik Informatika,"Artificial Intelligent, Text Mining, Decision Support System, Data Science",296,196,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     26
+1    218
+2     16
+3      5
+4      3
+5      4
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5983146,YUNI AGUNG NUGROHO,Universitas Widya Gama,S1 - Agroteknologi,"pertanian organik, modeling, hortikultura",417,192,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     31
+1    108
+2     19
+3      6
+4      3
+5      1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+6007790,WIWIN PURNOMOWATI,Universitas Widya Gama,S1 - Akuntansi,Ekonomi Pembangunan,306,181,0,0,"0     3
+1    14
+2     3
+3     2
+4     0
+5     0
+Name: Scopus, dtype: int64","0     23
+1    197
+2     16
+3      6
+4      6
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5983346,RIRIEN PRIHANDARINI,Universitas Widya Gama,S1 - Agroteknologi,pertanian organik,393,174,0,0,"0    3
+1    1
+2    1
+3    1
+4    0
+5    1
+Name: Scopus, dtype: int64","0     32
+1    159
+2     17
+3      6
+4      5
+5      1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5998823,DWI ANGGARANI,Universitas Widya Gama,S1 - Akuntansi,Akuntansi,339,170,0,0,"0    2
+1    2
+2    2
+3    1
+4    0
+5    2
+Name: Scopus, dtype: int64","0     64
+1    222
+2     36
+3      9
+4      8
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6833552,SURVIVAL,Universitas Widya Gama,S1 - Manajemen,"Manajemen, Manajemen Sumber Daya Manusia, Perilaku Keorganisasian, Manajemen Operasional, Pengantar Ilmu Ekonomi",227,167,0,0,"0    1
+1    2
+2    1
+3    1
+4    0
+5    0
+Name: Scopus, dtype: int64","0    12
+1    36
+2     9
+3     4
+4     1
+5     3
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5979034,SUKAMTO,Universitas Widya Gama,S1 - Teknologi Hasil Pertanian,Food Chemistry and Technology,595,165,0,0,"0     4
+1    53
+2     4
+3     3
+4     1
+5     0
+Name: Scopus, dtype: int64","0    51
+1    41
+2    10
+3     3
+4     1
+5     1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+6064308,DIKY SISWANTO,Universitas Widya Gama,S1 - Teknik Elektro,"Networking, Wireless Comms, Artificial Intelligence, Control Engineering, Internet of Things",393,162,0,0,"0    5
+1    8
+2    4
+3    2
+4    0
+5    1
+Name: Scopus, dtype: int64","0    33
+1    95
+2    20
+3     6
+4     3
+5     1
+Name: GScholar, dtype: int64","0    2
+1    1
+2    1
+3    1
+4    0
+5    1
+Name: WOS, dtype: int64"
+5999156,KHOJANAH HASAN,Universitas Widya Gama,S1 - Akuntansi,Akuntansi,262,160,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     55
+1    211
+2     33
+3      7
+4      5
+5      2
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5998643,GUNARIANTO,Universitas Widya Gama,S1 - Akuntansi,Akuntansi,424,154,0,0,"0    1
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: Scopus, dtype: int64","0    93
+1    48
+2    18
+3     4
+4     0
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5978165,FRIDA DWI ANGGRAENI,Universitas Widya Gama,S1 - Teknologi Hasil Pertanian,Teknologi Hasil Pertanian,336,149,0,0,"0     5
+1    27
+2     3
+3     3
+4     1
+5     1
+Name: Scopus, dtype: int64","0     32
+1    102
+2     16
+3      5
+4      4
+5      1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5978099,MOHAMMAD SUI,Universitas Widya Gama,S1 - Teknologi Hasil Pertanian,"Enzyme, Food Technology",574,147,0,0,"0    3
+1    8
+2    2
+3    2
+4    0
+5    1
+Name: Scopus, dtype: int64","0     48
+1    150
+2     28
+3      6
+4      5
+5      1
+Name: GScholar, dtype: int64","0    5
+1    6
+2    3
+3    1
+4    0
+5    3
+Name: WOS, dtype: int64"
+5998832,ENDAH PUSPITOSARIE,Universitas Widya Gama,D3 - Keuangan Dan Perbankan,Akuntansi,216,142,0,0,"0    2
+1    2
+2    1
+3    1
+4    0
+5    1
+Name: Scopus, dtype: int64","0     40
+1    111
+2     19
+3      6
+4      4
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6655997,NGUDI TJAHJONO,Universitas Widya Gama,S1 - Teknik Industri,"Environment, Ergonomics",261,139,0,0,"0    2
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: Scopus, dtype: int64","0     22
+1    107
+2     16
+3      4
+4      4
+5      1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: WOS, dtype: int64"
+6729051,RANGGA PAHLEVI PUTRA,Universitas Widya Gama,S1 - Teknik Informatika,"Image Processing, Biometric System, Digital Marketing, Informatics",164,130,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    20
+1    39
+2     8
+3     3
+4     2
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6745431,ANDY HARDIANTO,Universitas Widya Gama,S1 - Teknik Industri,manufaktur,378,129,0,0,"0    4
+1    5
+2    3
+3    2
+4    0
+5    2
+Name: Scopus, dtype: int64","0    23
+1    37
+2    15
+3     3
+4     0
+5     1
+Name: GScholar, dtype: int64","0    1
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: WOS, dtype: int64"
+6134459,NASHARUDDIN MAS,Universitas Widya Gama,S2 - Manajemen,Manajemen,237,124,0,0,"0     1
+1    38
+2     1
+3     1
+4     1
+5     0
+Name: Scopus, dtype: int64","0     67
+1    355
+2     41
+3      8
+4      7
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5999135,TUTI HASTUTI,Universitas Widya Gama,S1 - Manajemen,Manajemen,248,122,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     30
+1    128
+2     17
+3      4
+4      2
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5985986,SODIK,Universitas Widya Gama,S1 - Akuntansi,Akuntansi,570,117,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     47
+1    467
+2     24
+3      7
+4      5
+5      1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+6085205,ARIEF PURWANTO,Universitas Widya Gama,S2 - Manajemen,"Management, Human Resources Management, Marketing Management and Strategic Management",232,106,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     38
+1    134
+2     20
+3      7
+4      3
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5999166,SYAMSUL BAHRI,Universitas Widya Gama,S1 - Akuntansi,Akuntansi,236,102,0,0,"0    2
+1    1
+2    1
+3    1
+4    0
+5    2
+Name: Scopus, dtype: int64","0     9
+1    41
+2     5
+3     4
+4     2
+5     5
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5999265,MARJANI AT,Universitas Widya Gama,Unknown,Akuntansi,154,102,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     8
+1    20
+2     6
+3     2
+4     1
+5     4
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5999172,UNTUNG WAHYUDI,Universitas Widya Gama,S1 - Akuntansi,Akuntansi,298,99,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0      33
+1    1369
+2      24
+3      10
+4      10
+5       1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6656885,ELIK MURNI NINGTIAS NINGSIH,Universitas Widya Gama,S1 - Agroteknologi,Ilmu Tanaman,390,93,0,0,"0    1
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: Scopus, dtype: int64","0    27
+1    69
+2    13
+3     5
+4     2
+5     1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+6668654,MUCHLIS MASUD,Universitas Widya Gama,S2 - Manajemen,Ilmu Manajemen,155,88,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     41
+1    158
+2     17
+3      5
+4      2
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6805047,LEO HUTRI WICAKSONO,Universitas Widya Gama,S1 - Teknik Mesin,"teknik mesin, teknik sistem",103,85,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    19
+1    14
+2     8
+3     2
+4     0
+5     2
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6666989,MUFIDATUL MA'SUMAH,Universitas Widya Gama,S1 - Ilmu Hukum,Ilmu Hukum,167,81,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    16
+1    60
+2     9
+3     3
+4     1
+5     1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+6647109,DHARMAYANTI PRI HANDINI,Universitas Widya Gama,S1 - Manajemen,Ilmu Manajemen,204,80,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    36
+1    63
+2    13
+3     4
+4     2
+5     1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5984435,TRI WARDHANI,Universitas Widya Gama,S1 - Agroteknologi,"botanical pesticide, sustainable farming",186,75,0,0,"0    1
+1    1
+2    1
+3    1
+4    0
+5    0
+Name: Scopus, dtype: int64","0    22
+1    40
+2    10
+3     4
+4     1
+5     1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5992666,LUKMAN HAKIM,Universitas Widya Gama,S2 - Ilmu Hukum,"Law, Constitutional Law, State Law",359,68,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    111
+1    842
+2     55
+3     12
+4     14
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5998677,INDAH DEWI NURHAYATI,Universitas Widya Gama,S1 - Akuntansi,Akuntansi,115,64,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     5
+1    65
+2     4
+3     3
+4     1
+5     8
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6651256,AKHMAD FARID,Universitas Widya Gama,S1 - Teknik Mesin,Teknik Mesin,152,63,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    47
+1    79
+2    23
+3     5
+4     2
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5992309,BAMBANG BUDIANTONO,Universitas Widya Gama,Unknown,Manajemen,115,62,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    27
+1    58
+2    15
+3     5
+4     1
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5998676,IRFAN FATONI,Universitas Widya Gama,S1 - Akuntansi,Akuntansi,87,58,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    19
+1    72
+2     7
+3     4
+4     2
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6739345,NIKEN PARAMITA,Universitas Widya Gama,S1 - Manajemen,"translation, audiovisual translation, translation pedagogy, discourse analysis, ELT",62,57,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6024847,HARTINI PRASETYANING PAWESTRI,Universitas Widya Gama,S1 - Akuntansi,Akuntansi,210,57,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0       5
+1    1062
+2       4
+3       3
+4       2
+5       2
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6852706,HANIFATUS SAHRO,Universitas Widya Gama,S1 - Agribisnis,Agribisnis,64,56,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    14
+1    11
+2     5
+3     2
+4     0
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6808264,ZULKIFLI,Universitas Widya Gama,S1 - Manajemen,Manajemen,90,56,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6705468,ENNY SUMARYATI,Universitas Widya Gama,S1 - Teknologi Hasil Pertanian,,214,56,0,0,"0    2
+1    3
+2    2
+3    1
+4    0
+5    2
+Name: Scopus, dtype: int64","0     34
+1    124
+2     19
+3      6
+4      3
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5998679,SIRAJUDDIN,Universitas Widya Gama,S2 - Ilmu Hukum,Hukum Tata Negara (HTN),364,55,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    20
+1     8
+2     4
+3     2
+4     0
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5998672,YEKTI INTYAS RAHAYU,Universitas Widya Gama,Unknown,Ilmu Manajemen,84,53,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    4
+1    4
+2    1
+3    1
+4    0
+5    1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5984443,PURNAWAN DWIKORA NEGARA,Universitas Widya Gama,S1 - Ilmu Hukum,"environmental law, adat law",290,50,0,0,"0    2
+1    5
+2    1
+3    1
+4    0
+5    1
+Name: Scopus, dtype: int64","0     40
+1    373
+2     26
+3      8
+4      7
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6650684,ZULKARNAIN,Universitas Widya Gama,S1 - Ilmu Hukum,"Hukum Pidana, Kriminologi, Kejahatan Korporasi, Corporate Criminal Law, Hukum Pidana Islam",130,46,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    39
+1    98
+2    13
+3     5
+4     4
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5998678,SUPRIHANA,Universitas Widya Gama,S1 - Teknologi Hasil Pertanian,Teknologi Hasil Pertanian,180,45,0,0,"0    2
+1    3
+2    2
+3    1
+4    0
+5    2
+Name: Scopus, dtype: int64","0    21
+1    53
+2    11
+3     4
+4     1
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5998675,FATKHUROHMAN,Universitas Widya Gama,S2 - Ilmu Hukum,HTN,185,44,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    25
+1    24
+2     9
+3     3
+4     0
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6127886,FIRMAN NURDIYANSYAH,Universitas Widya Gama,S1 - Bisnis Digital,,120,43,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     26
+1    162
+2     14
+3      5
+4      4
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6647649,IBNU SUBARKAH,Universitas Widya Gama,S1 - Ilmu Hukum,Ilmu Hukum,104,41,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    12
+1    22
+2     6
+3     3
+4     0
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6647599,ZAHIR RUSYAD,Universitas Widya Gama,S2 - Ilmu Hukum,Ilmu Hukum,160,38,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    12
+1    70
+2     6
+3     3
+4     3
+5     2
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5998644,ANWAR,Universitas Widya Gama,S2 - Ilmu Hukum,Hukum Tata Negara,242,37,0,0,"0    1
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: Scopus, dtype: int64","0    21
+1    48
+2     9
+3     4
+4     1
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5978184,UNTUNG SUGIARTI,Universitas Widya Gama,Unknown,agroteknologi,147,36,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    25
+1    58
+2    11
+3     4
+4     1
+5     3
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5978153,SUSLAM PRATAMANINGTYAS,Universitas Widya Gama,Unknown,,177,35,0,0,"0    1
+1    1
+2    1
+3    1
+4    0
+5    0
+Name: Scopus, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6120212,MUHAMMAD RAMADHANA ALFARIS,Universitas Widya Gama,S1 - Ilmu Hukum,"Social, Law and Society, Law and Development, Humanities, State Law",159,33,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    37
+1    97
+2    10
+3     6
+4     3
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6651575,SUWARTA,Universitas Widya Gama,S1 - Agribisnis,Manajemen Agribisnis,171,28,0,0,"0    1
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: Scopus, dtype: int64","0    33
+1    99
+2    16
+3     6
+4     4
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6127901,DARMADJI,Universitas Widya Gama,S1 - Agribisnis,Ekonomi Pertanian,150,22,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    15
+1    50
+2     7
+3     4
+4     2
+5     1
+Name: GScholar, dtype: int64","0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: WOS, dtype: int64"
+5998645,SOEDJONO,Universitas Widya Gama,Unknown,Ilmu Manajemen,66,20,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    8
+1    1
+2    1
+3    1
+4    0
+5    2
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6652499,MOHAMMAD MUKHSIM,Universitas Widya Gama,S1 - Teknik Elektro,Electrical Engineering,171,20,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     43
+1    238
+2     27
+3      7
+4      4
+5      4
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6820558,MUHAMMAD GHAZALI ARRAHIM,Universitas Widya Gama,S1 - Teknik Mesin,Material Manufacture,23,19,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    10
+1     8
+2     6
+3     1
+4     0
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6830151,AHMAD FAIRUZABADI,Universitas Widya Gama,S1 - Bisnis Digital,,79,15,0,0,"0    2
+1    3
+2    1
+3    1
+4    0
+5    1
+Name: Scopus, dtype: int64","0     8
+1    28
+2     6
+3     3
+4     0
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5990832,TOTO SUHARJANTO,Universitas Widya Gama,S1 - Agroteknologi,Budidaya Pertanian dan Perkebunan,96,12,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    18
+1    51
+2     9
+3     3
+4     2
+5     2
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6829884,SHAIFANY FATRIANA KADIR,Universitas Widya Gama,S1 - Bisnis Digital,,27,12,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     3
+1    35
+2     1
+3     1
+4     1
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6679736,FIRMAN HIDAYAT,Universitas Widya Gama,S1 - Agroteknologi,Agroteknologi,29,11,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     3
+1    14
+2     2
+3     2
+4     0
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+164236,SULTHON MILADIYANTO,Universitas Widya Gama,S1 - Ilmu Hukum,Law,52,8,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     16
+1    110
+2      9
+3      5
+4      3
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6647611,SURIANSYAH,Universitas Widya Gama,Unknown,Teknik Mesin,135,5,0,0,"0    2
+1    2
+2    2
+3    1
+4    0
+5    2
+Name: Scopus, dtype: int64","0    27
+1    15
+2     9
+3     2
+4     0
+5     2
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+5999217,SOLEHODDIN,Universitas Widya Gama,S2 - Ilmu Hukum,Ilmu Hukum,61,4,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    10
+1    37
+2     5
+3     3
+4     1
+5     1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6705239,ZAENUDDIN,Universitas Widya Gama,S1 - Akuntansi,Akuntansi,15,2,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0    5
+1    1
+2    1
+3    1
+4    0
+5    1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6681992,ADILOKA SUJONO,Universitas Widya Gama,S1 - Ilmu Hukum,Bahasa Inggris,34,0,0,0,"0    1
+1    0
+2    0
+3    0
+4    0
+5    1
+Name: Scopus, dtype: int64","0    17
+1     6
+2     3
+3     2
+4     0
+5     3
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
+6662504,DJOKO IMBAWANI ATMADJA,Universitas Widya Gama,Unknown,"Ilmu Hukum, Hukum Ekonomi, Hukum Bisnis",71,0,0,0,"0    0
+1    0
+2    0
+3    0
+4    0
+5    0
+Name: Scopus, dtype: int64","0     14
+1    101
+2     11
+3      4
+4      2
+5      1
+Name: GScholar, dtype: int64","0    0.0
+1    0.0
+2    0.0
+3    NaN
+4    NaN
+5    NaN
+Name: WOS, dtype: float64"
